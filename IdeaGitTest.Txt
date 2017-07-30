@@ -1,1 +1,6 @@
-This is IDEA Git Test!
+This is IDEA Git Test.
+
+idea Git change Test.
+
+
+This is git change test.
